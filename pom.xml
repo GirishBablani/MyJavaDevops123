@@ -1,0 +1,13 @@
+<project>
+
+<modelVersion>4.0.0</modelVersion>
+
+<groupId>com.HelloWorld</groupId>
+
+<artifactId>HelloWorld</artifactId>
+
+<packaging>jar</packaging>
+
+<version>Snapshot</version>
+
+</project>
